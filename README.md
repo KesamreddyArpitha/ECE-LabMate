@@ -39,21 +39,22 @@ https://youtu.be/qk2QllPKelc
 - MATLAB App Designer
 - Internet connection for AI API integration
 
+  ## 📸 Application Screenshots
+
+### AI Tutor
+![AI Tutor](ai-tutor.png)
+
+### Virtual Lab
+![Virtual Lab](virtual-lab.png)
+
+### Viva Practice
+![Viva Practice](viva-practice.png)
+
 ## 👩‍💻 Project
 
 Developed as part of the Gnani AI Internship Challenge.
 ## 📸 Application Screenshots
 
-### 🤖 AI Tutor
-(ai-tutor.png)
 
-### 📡 Virtual Lab
-(virtual-lab.png)
-
-### 🎯 Viva Practice
-(viva-practice.png)
-
-## 🎥 Project Demo
-https://youtu.be/qk2QllPKelc
 
 
