@@ -28,6 +28,7 @@ To make ECE learning more interactive by integrating AI-powered concept explanat
 
 A demonstration video showcasing the application's features will be available here.
 
+[▶️ Watch ECE LabMate Demo Video](YOUR_YOUTUBE_LINK)
 ## 📂 Project Structure
 
 - `ECELabMate_New.mlapp` – MATLAB App Designer application.
