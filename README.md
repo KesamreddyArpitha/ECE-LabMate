@@ -53,7 +53,7 @@ https://youtu.be/qk2QllPKelc
 ## 👩‍💻 Project
 
 Developed as part of the Gnani AI Internship Challenge.
-## 📸 Application Screenshots
+
 
 
 
