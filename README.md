@@ -28,7 +28,7 @@ To make ECE learning more interactive by integrating AI-powered concept explanat
 
 A demonstration video showcasing the application's features will be available here.
 
-[▶️ Watch ECE LabMate Demo Video](YOUR_YOUTUBE_LINK)
+https://youtu.be/qk2QllPKelc
 ## 📂 Project Structure
 
 - `ECELabMate_New.mlapp` – MATLAB App Designer application.
@@ -42,4 +42,18 @@ A demonstration video showcasing the application's features will be available he
 ## 👩‍💻 Project
 
 Developed as part of the Gnani AI Internship Challenge.
+## 📸 Application Screenshots
+
+### 🤖 AI Tutor
+(ai-tutor.png)
+
+### 📡 Virtual Lab
+(virtual-lab.png)
+
+### 🎯 Viva Practice
+(viva-practice.png)
+
+## 🎥 Project Demo
+https://youtu.be/qk2QllPKelc
+
 
